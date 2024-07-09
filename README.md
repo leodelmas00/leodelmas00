@@ -16,4 +16,4 @@
 <!-- About other projects -->
 ## Proyectos de facultad
 [![Scrabble](https://img.shields.io/badge/-♟️_Scrabble-D6AD60?style=for-the-badge)](https://github.com/leodelmas00/ScrabbleAR-Grupo22)
-[![Scrabble](https://img.shields.io/badge/-⚒️_TruequeTools_(ongoing)-C26DBC?style=for-the-badge)](https://github.com/leodelmas00/front-truequetools.git)
+[![Scrabble](https://img.shields.io/badge/-⚒️_TruequeTools-C26DBC?style=for-the-badge)](https://github.com/leodelmas00/front-truequetools.git)
